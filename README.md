@@ -56,8 +56,4 @@ Seu Nome
 
 Este projeto está licenciado sob a Licença ISC - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
----
 
-Você pode personalizar este arquivo README de acordo com as especificações do seu projeto e adicionar mais informações, como os requisitos de pré-instalação, detalhes sobre os endpoints, informações sobre como contribuir, entre outros. Lembre-se de substituir "Seu Nome" pelo seu nome de usuário ou nome real.
-
-Espero que isso te ajude! Se precisar de mais alguma coisa, é só perguntar. Boa sorte com o seu projeto!
