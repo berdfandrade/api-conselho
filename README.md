@@ -50,7 +50,7 @@ Exemplo de resposta:
 
 ## Autor
 
-Seu Nome
+Bernardo Andrade
 
 ## Licença
 
